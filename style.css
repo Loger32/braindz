@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list .list-item a{
+    color: red;
+    font-size: 30px;
+}
+.list-item{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.blog h2{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+.blog-article{
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+.blog .blog-article-second{
+    color:black;
+    text-align: center;
+    font-size: 15px;
+}
+
+.contacts{
+margin-top: 30px;
+padding-left: 1500px;
+}
+.copy{
+    padding-left: 1700px; 
+}
+.ontacts-form-input{
+    background-color:aquamarine;
+}
+#contacts-form-submit{
+    background-color: aquamarine;
+}
+
+
+
