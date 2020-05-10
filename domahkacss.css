@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Indie Flower', cursive;
+}
+body{
+    background: url(img/fon.jpg) no-repeat;
+    background-size: cover;
+    color:white;
+}
+header{
+    background-color: black;
+    margin: 20px 20px 20px 20px;
+    padding-bottom: 30px;
+    border: 2px solid white;
+}
+#logo{
+    height: 200px;
+    width: 200px;
+    margin: 20px 0px 30px 20px;
+}
+.names_tabel{
+    list-style-type: none;
+    font-size: 35px;
+    margin: -200px 0px 0px 225px;
+    padding-left: 30px;
+}
+.main_info_tabel{
+    font-size: 30px;
+    float: right;
+    margin: -175px 20px 20px 20px;
+    
+}
+.about_block{
+        margin: 25px 20px 25px 12px;
+        padding: 20px 10px 15px 10px;
+        border: 2px solid white;
+        background-color: black;
+        height: 500px;
+        width: 1300px;
+        margin: 100px 50px 50px 300px;
+}
+.text-inside-block{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 50px;
+}
+.main-section-second{
+    margin: 25px 20px 25px 12px;
+    padding: 20px 10px 15px 10px;
+    border: 2px solid white;
+    background-color: black;
+    height: 500px;
+    width: 1300px;
+    margin: 100px 50px 50px 300px;
+}
+.google-block{
+    margin-top: 45px;
+    margin-left: 20px;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+}
+.google-block:hover{
+    display: block;
+    transition: 0.8s ease-out;
+    border: 20px solid white;
+}
+.opera-block{
+    margin: 45px 500px;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+}
+.opera-block:hover{
+    display: block;
+    transition: 0.8s ease-out;
+    border: 20px solid white;
+}
+.firefox-block{
+    margin: 45px 968px;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+}
+.firefox-block:hover{
+    display: block;
+    transition: 0.8s ease-out;
+    border: 20px solid white;
+}
+.icon-google{
+    text-align: center;
+    margin-top: 100px;
+}
+.icon-opera{
+    text-align: center;
+    margin-top: 100px;
+}
+.icon-firefox{
+    text-align: center;
+    margin-top: 100px;
+}
+.text-under-icon{
+    margin-top: 20px;
+    font-size: 20px;
+    color: aquamarine;
+}
+.text-about-browsers{
+    margin-top: 50px;
+    font-size: 17px;
+}
